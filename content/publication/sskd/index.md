@@ -18,7 +18,7 @@ publishDate: "2020-08-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ECCV 2020*
+publication: In *CVPR 2020*
 #publication_short: In *STC*
 
 #abstract: 
