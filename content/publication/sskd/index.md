@@ -1,13 +1,10 @@
 ---
-title: "A Local-to-Global Approach to Multi-modal Movie Scene Segmentation"
+title: "When Knowledge Distillation Meets Self-Supervision"
 authors:
-- Anyi Rao
-- Linning Xu
-- Yu Xiong
 - admin
-- Qingqiu Huang
-- Bolei Zhou
-- Dahua Lin
+- Ziwei Liu
+- Xiaoxiao Li
+- Chen Change Loy
 date: ""
 doi: ""
 
