@@ -1,4 +1,3 @@
-featured = true
 ---
 title: Publications
 
