@@ -14,8 +14,7 @@ role: Ph.D student
 
 # Organizations/Affiliations
 organizations:
-- name: The Chinese University of  
-Hong Kong
+- name: The Chinese University of HK
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
