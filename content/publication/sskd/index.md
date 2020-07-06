@@ -36,9 +36,8 @@ featured: false
 #links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://arxiv.org/abs/2004.02678
-url_code: https://github.com/AnyiRao/SceneSeg
-url_project: https://anyirao.com/projects/SceneSeg.html
+url_pdf: https://arxiv.org/abs/2006.07114
+url_code: https://github.com/xuguodong03/SSKD
 
 
 # Featured image
