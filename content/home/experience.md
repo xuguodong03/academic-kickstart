@@ -26,11 +26,14 @@ date_format = "Jan 2006"
   date_end = "2018-07-10"
   description = """
   Department: Electronic Engineering
+  
   Rank: 6/194
+  
   GPA: 93/100
+  
   Honor:
-  * Outstanding Graduate of Beijing, 2018
-  * Academic Excellence Award, Tsinghua University, 2015,2016,2017
+    * Outstanding Graduate of Beijing, 2018
+    * Academic Excellence Award, Tsinghua University, 2015,2016,2017
   """
 
 [[experience]]
@@ -41,8 +44,11 @@ date_format = "Jan 2006"
   date_start = "2018-08-01"
   date_end = ""
   description = """
-  Teaching Assistant: Communication Experiments, Data Structure, Image Processing, Linear Algebra
-  
+  Teaching Assistant: 
+  * Communication Experiments
+  * Data Structure
+  * Image Processing
+  * Linear Algebra
   """
 
 +++
