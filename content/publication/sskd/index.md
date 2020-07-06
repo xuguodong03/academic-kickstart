@@ -1,18 +1,15 @@
 ---
-title: "A Local-to-Global Approach to Multi-modal Movie Scene Segmentation"
+title: "When Knowledge Distillation Meets Self-Supervision"
 authors:
-- Anyi Rao
-- Linning Xu
-- Yu Xiong
 - admin
-- Qingqiu Huang
-- Bolei Zhou
-- Dahua Lin
+- Ziwei Liu
+- Xiaoxiao Li
+- Chen Change Loy
 date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-06-01T00:00:00Z"
+publishDate: "2020-08-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,13 +18,13 @@ publishDate: "2020-06-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *CVPR 2020*
+publication: In *ECCV 2020*
 #publication_short: In *STC*
 
 #abstract: 
 
 # Summary. An optional shortened abstract.
-#summary: ""
+#summary: 
 
 tags:
 - Source Themes
@@ -36,9 +33,8 @@ featured: false
 #links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://arxiv.org/abs/2004.02678
-url_code: https://github.com/AnyiRao/SceneSeg
-url_project: https://anyirao.com/projects/SceneSeg.html
+url_pdf: https://arxiv.org/abs/2006.07114
+url_code: https://github.com/xuguodong03/SSKD
 
 
 # Featured image
