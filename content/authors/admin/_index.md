@@ -27,9 +27,12 @@ interests:
 
 education:
   courses:
+  - course: Ph.D in Information Engineering
+    institution: The Chinese University of Hong Kong
+    year: 2081-present
   - course: B.Eng in Electronic Engineering
     institution: Tsinghua University
-    year: 2018
+    year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,7 +46,6 @@ education:
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-  
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?hl=en&user=r7QElw8AAAAJ
@@ -66,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a second-year PhD candidate in the [MMLAB](http://mmlab.ie.cuhk.edu.hk/), The Chinese University of Hong Kong. I am supervised by Prof. [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/index.html) and Prof. [Xiaoou Tang](https://www.ie.cuhk.edu.hk/people/xotang.shtml). I received my B.Eng degree from Tsinghua University in July 2018, supervised by Prof. [Jian Yuan](http://www.ee.tsinghua.edu.cn/publish/ee/4157/2010/20101217151546455509516/20101217151546455509516_.html). 
+I am currently a second-year PhD candidate in the [MMLAB](http://mmlab.ie.cuhk.edu.hk/), [CUHK](https://www.cuhk.edu.hk/chinese/index.html). I am supervised by Prof. [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/index.html) and Prof. [Xiaoou Tang](https://www.ie.cuhk.edu.hk/people/xotang.shtml). I received my B.Eng degree from Tsinghua University in July 2018, supervised by Prof. [Jian Yuan](http://www.ee.tsinghua.edu.cn/publish/ee/4157/2010/20101217151546455509516/20101217151546455509516_.html). 
 
 My research interests include video object segmentation, self-supervised learning and knowledge distillation.
