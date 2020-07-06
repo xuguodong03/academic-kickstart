@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "fa-chart-bar"
   icon_pack = "fas"
-  name = "Matlab"
+  name = "MATLAB"
   # description = "10%"
   
 [[feature]]
