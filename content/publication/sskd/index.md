@@ -1,5 +1,5 @@
 ---
-title: "A Local-to-Global Approach to Multi-modal Movie Scene Segmentation"
+title: "When Knowledge Distillation Meets Self-Supervision"
 authors:
 - admin
 - Ziwei Liu
