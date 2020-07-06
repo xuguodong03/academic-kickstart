@@ -15,25 +15,25 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-python"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
   # description = "90%"
   
 [[feature]]
-  icon = "fa-keyboard"
+  icon = "keyboard"
   icon_pack = "far"
   name = "C/C++"
   # description = "100%"  
   
 [[feature]]
-  icon = "fa-chart-bar"
+  icon = "chart-bar"
   icon_pack = "fas"
   name = "MATLAB"
   # description = "10%"
   
 [[feature]]
-  icon = "fa-fire"
+  icon = "fire"
   icon_pack = "fas"
   name = "PyTorch"
   # description = "10%"
