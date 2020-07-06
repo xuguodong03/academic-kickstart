@@ -27,12 +27,6 @@ subtitle = ""
   # description = "100%"  
   
 [[feature]]
-  icon = "chart-bar"
-  icon_pack = "fas"
-  name = "MATLAB"
-  # description = "10%"
-  
-[[feature]]
   icon = "fire"
   icon_pack = "fas"
   name = "PyTorch"
