@@ -32,8 +32,8 @@ date_format = "Jan 2006"
   GPA: 93/100
   
   Honor:
-    * Outstanding Graduate of Beijing, 2018
-    * Academic Excellence Award, Tsinghua University, 2015,2016,2017
+  * Outstanding Graduate of Beijing, 2018
+  * Academic Excellence Award, Tsinghua University, 2015,2016,2017
   """
 
 [[experience]]
