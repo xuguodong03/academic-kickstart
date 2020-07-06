@@ -1,7 +1,7 @@
 ---
 title: "A Local-to-Global Approach to Multi-modal Movie Scene Segmentation"
 authors:
-- *admin*
+- admin
 - Ziwei Liu
 - Xiaoxiao Li
 - Chen Change Loy

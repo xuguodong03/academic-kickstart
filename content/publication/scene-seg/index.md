@@ -4,7 +4,7 @@ authors:
 - Anyi Rao
 - Linning Xu
 - Yu Xiong
-- *admin*
+- admin
 - Qingqiu Huang
 - Bolei Zhou
 - Dahua Lin
