@@ -1,5 +1,5 @@
 ---
-title: "A Local-to-Global Approach to Multi-modal Movie Scene Segmentation"
+title: "When Knowledge Distillation Meets Self-Supervision"
 authors:
 - Anyi Rao
 - Linning Xu
@@ -21,7 +21,7 @@ publishDate: "2020-06-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *CVPR 2020*
+publication: In *ECCV 2020*
 #publication_short: In *STC*
 
 #abstract: 
