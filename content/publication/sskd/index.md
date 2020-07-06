@@ -33,9 +33,9 @@ featured: true
 #links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://arxiv.org/abs/2004.02678
+url_pdf: https://arxiv.org/abs/2006.07114
 url_code: https://github.com/xuguodong03/SSKD
-
+url_project: https://anyirao.com/projects/SceneSeg.html
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
