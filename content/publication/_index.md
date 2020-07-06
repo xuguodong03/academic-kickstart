@@ -1,3 +1,4 @@
+featured = true
 ---
 title: Publications
 
