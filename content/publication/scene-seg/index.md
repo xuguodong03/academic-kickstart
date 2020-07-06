@@ -27,7 +27,7 @@ publication: In *CVPR 2020*
 #abstract: 
 
 # Summary. An optional shortened abstract.
-#summary: 
+summary: ""
 
 tags:
 - Source Themes
