@@ -33,7 +33,7 @@ featured: true
 #links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://arxiv.org/abs/2006.07114
+url_pdf: https://arxiv.org/abs/2004.02678
 url_code: https://github.com/xuguodong03/SSKD
 
 
