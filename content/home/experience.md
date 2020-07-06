@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -18,27 +18,31 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Undergraduate student"
+  company = "Tsinghua University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Beijing"
+  date_start = "2014-08-27"
+  date_end = "2018-07-10"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Department: Electronic Engineering
+  Rank: 6/194
+  GPA: 93/100
+  Honor:
+  * Outstanding Graduate of Beijing, 2018
+  * Academic Excellence Award, Tsinghua University, 2015,2016,2017
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Ph.D student"
+  company = "The Chinese University of Hong Kong"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Hong Kong"
+  date_start = "2018-08-01"
+  date_end = "Present"
+  description = """
+  Teaching Assistant: Communication Experiments, Data Structure, Image Processing, Linear Algebra
+  
+  """
 
 +++
