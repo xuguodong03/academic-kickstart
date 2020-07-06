@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Hong Kong"
   date_start = "2018-08-01"
-  date_end = "Present"
+  date_end = ""
   description = """
   Teaching Assistant: Communication Experiments, Data Structure, Image Processing, Linear Algebra
   
