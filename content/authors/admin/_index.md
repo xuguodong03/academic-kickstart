@@ -14,7 +14,8 @@ role: Ph.D student
 
 # Organizations/Affiliations
 organizations:
-- name: The Chinese University of </br>Hong Kong
+- name: The Chinese University of  
+Hong Kong
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +30,7 @@ education:
   courses:
   - course: Ph.D in Information Engineering
     institution: The Chinese University of Hong Kong
-    year: 2018-
+    year: 2018-present
   - course: B.Eng in Electronic Engineering
     institution: Tsinghua University
     year: 2014-2018
