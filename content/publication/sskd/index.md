@@ -24,7 +24,7 @@ publication: In *ECCV 2020*
 #abstract: 
 
 # Summary. An optional shortened abstract.
-#summary: ""
+summary: "European Conference on Computer Vision (ECCV), 2020"
 
 tags:
 - Source Themes

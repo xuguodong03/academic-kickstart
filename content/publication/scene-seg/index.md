@@ -27,7 +27,7 @@ publication: In *CVPR 2020*
 #abstract: 
 
 # Summary. An optional shortened abstract.
-#summary: ""
+summary: "Computer Vision and Pattern Recognition (CVPR), 2020"
 
 tags:
 - Source Themes
