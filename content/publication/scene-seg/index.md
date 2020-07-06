@@ -1,15 +1,18 @@
 ---
-title: "When Knowledge Distillation Meets Self-Supervision"
+title: "A Local-to-Global Approach to Multi-modal Movie Scene Segmentation"
 authors:
+- Anyi Rao
+- Linning Xu
+- Yu Xiong
 - admin
-- Ziwei Liu
-- Xiaoxiao Li
-- Chen Change Loy
+- Qingqiu Huang
+- Bolei Zhou
+- Dahua Lin
 date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-08-01T00:00:00Z"
+publishDate: "2020-06-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,13 +21,13 @@ publishDate: "2020-08-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ECCV 2020*
+publication: In *CVPR 2020*
 #publication_short: In *STC*
 
 #abstract: 
 
 # Summary. An optional shortened abstract.
-#summary: 
+#summary: ""
 
 tags:
 - Source Themes
@@ -33,24 +36,25 @@ featured: false
 #links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://arxiv.org/abs/2006.07114
-url_code: https://github.com/xuguodong03/SSKD
+url_pdf: https://arxiv.org/abs/2004.02678
+url_code: https://github.com/AnyiRao/SceneSeg
+url_project: https://anyirao.com/projects/SceneSeg.html
 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ""
-#  preview_only: false
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-#projects:
-#- internal-project
+projects:
+- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
