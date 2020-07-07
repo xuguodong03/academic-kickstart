@@ -1,5 +1,5 @@
 ---
-title: "When Knowledge Distillation Meets Self-Supervision"
+title: "Knowledge Distillation Meets Self-Supervision"
 authors:
 - admin
 - Ziwei Liu
